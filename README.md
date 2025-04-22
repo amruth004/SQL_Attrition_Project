@@ -74,7 +74,7 @@ The final dashboard was created using **Looker Studio**, visualizing key metrics
 - Income levels vs attrition  
 - Travel and distance correlations  
 
-🔗 *[Insert Dashboard Link Here]*
+🔗 *https://lookerstudio.google.com/reporting/76e658f0-2ef6-49de-b46f-27a37c57674a*
 
 ---
 
